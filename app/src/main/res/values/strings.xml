@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mooolicious</string>
+    <string name="action_settings">Settings</string>
+    <string name="applogo">Mooolicious</string>
+    <string-array name="options">
+        <item>IceCream</item>
+        <item>Doughnut</item>
+        <item>Cake</item>
+    </string-array>
+</resources>
